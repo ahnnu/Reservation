@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnStart" type="id" />
+    <item name="btnEnd" type="id" />
+    <item name="rBtnCalendar" type="id" />
+    <item name="rBtnTime" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="calendarView" type="id" />
+</resources>
